@@ -1,5 +1,4 @@
 
-
 <svg fill="none" viewBox="0 0 900 4200" width="900" height="4200" xmlns="http://www.w3.org/2000/svg">
 
   <foreignObject width="100%" height="100%">
@@ -236,17 +235,25 @@ line-height: 160%;
 <p>&nbsp;</p>
 
 <div class="container col-lg-12">
+    
 <div class="row">
+    
 <div class="col-sm-12">
+    
 <div class="panel panel-default catalog-item" id="catalog-item-01">
+    
 <div class="panel-heading">
+    
 <h3>App</h3>
+    
 </div>
 
 <div class="panel-body">
+    
 <p class="catalog-item-description">Handle high-level app state and event (such as disabling the default back button behavior).</p>
+    
 <div class="btn-toolbar" role="toolbar" aria-label="...">
-<!---->
+ 
     <button class="btn btn-link btn_os" type="button" disabled>
         <span class="button_icon">
             <ion-icon name="logo-android">
@@ -1904,3 +1911,4 @@ line-height: 160%;
 </div>
   </foreignObject>
 </svg>
+
